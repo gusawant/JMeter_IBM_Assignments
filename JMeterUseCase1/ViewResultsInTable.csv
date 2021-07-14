@@ -1,0 +1,15 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1625463642480,4997,homePage,200,OK,UltimateThreadGroup 1-5,text,true,,82283,366,5,5,http://automationpractice.com/index.php,4382,0,914
+1625463643423,4424,homePage,200,OK,UltimateThreadGroup 1-4,text,true,,82281,366,5,5,http://automationpractice.com/index.php,3624,0,202
+1625463644422,4542,homePage,200,OK,UltimateThreadGroup 1-3,text,true,,82281,366,5,5,http://automationpractice.com/index.php,3743,0,198
+1625463645423,5272,homePage,200,OK,UltimateThreadGroup 1-2,text,true,,82285,366,5,5,http://automationpractice.com/index.php,4638,0,208
+1625463646424,5898,homePage,200,OK,UltimateThreadGroup 1-1,text,true,,82289,366,5,5,http://automationpractice.com/index.php,5312,0,194
+1625463647495,7049,invalidLogin,200,OK,UltimateThreadGroup 1-5,text,true,,35479,1367,5,5,http://automationpractice.com/index.php?controller=authentication,6098,0,0
+1625463647850,7927,invalidLogin,200,OK,UltimateThreadGroup 1-4,text,true,,35467,1352,5,5,http://automationpractice.com/index.php?controller=authentication,7529,0,0
+1625463648967,7985,invalidLogin,200,OK,UltimateThreadGroup 1-3,text,true,,35481,1329,5,5,http://automationpractice.com/index.php?controller=authentication,7590,0,0
+1625463652325,6620,invalidLogin,200,OK,UltimateThreadGroup 1-1,text,true,,35481,1337,5,5,http://automationpractice.com/index.php?controller=authentication,6235,0,0
+1625463654556,4834,validLogin,200,OK,UltimateThreadGroup 1-5,text,true,,35481,1331,5,5,http://automationpractice.com/index.php?controller=authentication,4222,0,0
+1625463655787,4787,validLogin,200,OK,UltimateThreadGroup 1-4,text,true,,35485,1332,4,4,http://automationpractice.com/index.php?controller=authentication,4388,0,0
+1625463650698,10293,invalidLogin,200,OK,UltimateThreadGroup 1-2,text,true,,35477,1354,3,3,http://automationpractice.com/index.php?controller=authentication,9881,0,0
+1625463656956,4695,validLogin,200,OK,UltimateThreadGroup 1-3,text,true,,35477,1300,2,2,http://automationpractice.com/index.php?controller=authentication,4300,0,0
+1625463658949,4161,validLogin,200,OK,UltimateThreadGroup 1-1,text,true,,35471,1333,1,1,http://automationpractice.com/index.php?controller=authentication,3775,0,0

@@ -1,0 +1,7 @@
+validEmails,password,invalidEmails,expectedResult
+gurujmeter@dispostable.com,passw0rd,gurujmeter12345@dispostable.com,Authentication failed
+rosetester@gmail.com,Jmetertest,rosetester1234@gmail.com,Rose Tester
+jarberatester@gmail.com,Jmetertest,jarberatester123@gmail.com,Jarbera Tester
+chamelitester@gmail.com,Jmetertest,chamelitester123@gmail.com,Chameli Tester
+lotustester@gmail.com,Jmetertest,lotustester123@gmail.com,Lotus Tester
+mogratester@gmail.com,Jmetertest,mogratester123@gmail.com,Mogra Tester
